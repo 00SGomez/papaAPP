@@ -1,0 +1,11 @@
+distribución: Reparto de un producto desde un punto hasta otro en donde se vende. (RAE, 2026) 
+
+cadena: Sucesión de elementos enlazados. (RAE, 2026)
+
+cadena de distribución: Unión de procesos, personas, empresas y medios que intervienen para que un producto llegue desde
+el fabricante hasta al punto de venta final. ()
+
+Cadena de distribución de papa: Unión de procesos, personas, empresas y medios que intervienen para que la papa llegue desde
+el cultivo hasta al punto de venta final. ()
+
+
