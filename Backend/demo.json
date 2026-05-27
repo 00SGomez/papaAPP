@@ -1,0 +1,62 @@
+[
+  {
+    "cedula": "1023456789",
+    "nombre": "Juan Pérez",
+    "area": 12.5,
+    "cultivo": "Papa criolla",
+    "inversion": 5200.75,
+    "fecha": "2026-03-15",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-74.1000, 4.6000],
+          [-74.1050, 4.6000],
+          [-74.1050, 4.6050],
+          [-74.1000, 4.6050],
+          [-74.1000, 4.6000]
+        ]
+      ]
+    }
+  },
+  {
+    "cedula": "1098765432",
+    "nombre": "María Gómez",
+    "area": 18.2,
+    "cultivo": "Papa pastusa",
+    "inversion": 7800.00,
+    "fecha": "2026-02-10",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-74.1200, 4.6100],
+          [-74.1250, 4.6100],
+          [-74.1250, 4.6150],
+          [-74.1200, 4.6150],
+          [-74.1200, 4.6100]
+        ]
+      ]
+    }
+  },
+  {
+    "cedula": "1011122233",
+    "nombre": "Carlos Ramírez",
+    "area": 9.7,
+    "cultivo": "Papa sabanera",
+    "inversion": 4300.50,
+    "fecha": "2026-01-25",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-74.0900, 4.5900],
+          [-74.0950, 4.5900],
+          [-74.0950, 4.5950],
+          [-74.0900, 4.5950],
+          [-74.0900, 4.5900]
+        ]
+      ]
+    }
+  }
+]
